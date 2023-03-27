@@ -1,0 +1,8 @@
+input, textarea {
+    margin: 10px 20px;
+    border: 2px solid #ffc0cb;
+    text-align: center;
+}
+strong {
+    margin: 10px 20px;
+}
